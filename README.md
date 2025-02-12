@@ -22,8 +22,8 @@ Ensure you have the following installed before running the scripts:
 
 #### 📥 Clone the Repository
 ```sh
-git clone https://github.com/amitjaswal28/pythonAssignment-.git
-cd pythonAssignment-
+git clone https://github.com/amitjaswal28/PythonAssignment.git
+cd PythonAssignment
 ```
 
 ## 🏃 Running the Scripts
